@@ -1,13 +1,5 @@
 #!/bin/bash
 ls
+applications documents dropbox movie pictures 
+destop downnloads library music public
 
-applications
-documents
-dropbox
-movie
-pictures
-destop
-downloads
-library
-music
-public 
